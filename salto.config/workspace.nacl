@@ -1,0 +1,5 @@
+workspace {
+  uid = "fb130456-b2ec-44bb-9e3e-f421e0e39ab5"
+  name = "gwr-ns-freenome"
+  staleStateThresholdMinutes = undefined
+}
