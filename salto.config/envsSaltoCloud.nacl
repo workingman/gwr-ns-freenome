@@ -1,4 +1,12 @@
 envs {
   envsCloud = [
+    {
+      uuid = "9cd96e52-0d66-4a8d-8b00-f424bda37978"
+      folderName = "gwr-s-ns-freenome"
+    },
+    {
+      uuid = "ea67beae-67ef-47a6-bcf7-52456759758c"
+      folderName = "off-gwr-s-nets-uat139"
+    },
   ]
 }
